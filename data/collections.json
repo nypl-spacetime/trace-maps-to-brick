@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d2251ba0-7850-0134-7a11-00505686a51c",
+    "title": "census-maps",
+    "url": "http://digitalcollections.nypl.org/collections/census-maps#/?tab=about",
+    "data": {
+      "useRectifiedMaps": true,
+      "fields": [
+        {
+          "name": "number",
+          "type": "number"
+        }
+      ]
+    }
+  }
+]

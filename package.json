@@ -1,0 +1,14 @@
+{
+  "name": "trace-maps-to-brick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "to-brick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bert Spaan",
+  "license": "MIT",
+  "dependencies": {
+    "to-brick": "nypl-spacetime/to-brick"
+  }
+}

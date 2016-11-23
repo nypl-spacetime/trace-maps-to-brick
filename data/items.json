@@ -1,0 +1,11 @@
+[
+  {
+    "id": "259d1720-3d50-0134-bb67-00505686a51c",
+    "collectionId": "d2251ba0-7850-0134-7a11-00505686a51c",
+    "data": {
+      "title": "1900 census enumeration districts, Manhattan and Bronx",
+      "mapId": 30840,
+      "tileUrl": "http://maps.nypl.org/warper/maps/tile/30840/{z}/{x}/{y}.png"
+    }
+  }
+]
