@@ -1,11 +1,13 @@
 [
-  {
-    "id": "259d1720-3d50-0134-bb67-00505686a51c",
-    "collectionId": "d2251ba0-7850-0134-7a11-00505686a51c",
-    "data": {
-      "title": "1900 census enumeration districts, Manhattan and Bronx",
-      "mapId": 30840,
-      "tileUrl": "http://maps.nypl.org/warper/maps/tile/30840/{z}/{x}/{y}.png"
-    }
-  }
+{"id":"109156c0-3d50-0134-5d86-00505686a51c","collectionId":"d2251ba0-7850-0134-7a11-00505686a51c","data":{"title":"Lower Manhattan - 1900 census enumeration districts, Manhattan and Bronx","mapId":30837,"tileUrl":"http://maps.nypl.org/warper/maps/tile/30837/{z}/{x}/{y}.png","geometry":{"type":"Polygon","coordinates":[[[-74.08002165700441,40.659625944282055],[-73.94954004891788,40.659625944282055],[-73.94954004891788,40.75155214598766],[-74.08002165700441,40.75155214598766],[-74.08002165700441,40.659625944282055]]]}}}
+,
+{"id":"191dbf00-3d50-0134-442b-00505686a51c","collectionId":"d2251ba0-7850-0134-7a11-00505686a51c","data":{"title":"East & West Village - 1900 census enumeration districts, Manhattan and Bronx","mapId":30838,"tileUrl":"http://maps.nypl.org/warper/maps/tile/30838/{z}/{x}/{y}.png","geometry":{"type":"Polygon","coordinates":[[[-74.1016368919197,40.682913204579016],[-73.94650438008789,40.682913204579016],[-73.94650438008789,40.76500004582478],[-74.1016368919197,40.76500004582478],[-74.1016368919197,40.682913204579016]]]}}}
+,
+{"id":"1dd76eb0-3d50-0134-f755-00505686a51c","collectionId":"d2251ba0-7850-0134-7a11-00505686a51c","data":{"title":"Midtown - 1900 census enumeration districts, Manhattan and Bronx","mapId":30839,"tileUrl":"http://maps.nypl.org/warper/maps/tile/30839/{z}/{x}/{y}.png","geometry":{"type":"Polygon","coordinates":[[[-74.03941016603365,40.715132810702514],[-73.91135024015094,40.715132810702514],[-73.91135024015094,40.80607498884204],[-74.03941016603365,40.80607498884204],[-74.03941016603365,40.715132810702514]]]}}}
+,
+{"id":"259d1720-3d50-0134-bb67-00505686a51c","collectionId":"d2251ba0-7850-0134-7a11-00505686a51c","data":{"title":"Harlem - 1900 census enumeration districts, Manhattan and Bronx","mapId":30840,"tileUrl":"http://maps.nypl.org/warper/maps/tile/30840/{z}/{x}/{y}.png","geometry":{"type":"Polygon","coordinates":[[[-74.0117580340399,40.75587351879997],[-73.88310702850865,40.75587351879997],[-73.88310702850865,40.84645973388108],[-74.0117580340399,40.84645973388108],[-74.0117580340399,40.75587351879997]]]}}}
+,
+{"id":"29eed1f0-3d50-0134-c4c7-00505686a51c","collectionId":"d2251ba0-7850-0134-7a11-00505686a51c","data":{"title":"Washington Heights - 1900 census enumeration districts, Manhattan and Bronx","mapId":30841,"tileUrl":"http://maps.nypl.org/warper/maps/tile/30841/{z}/{x}/{y}.png","geometry":{"type":"Polygon","coordinates":[[[-73.98112681334823,40.79522192292074],[-73.85060820390714,40.79522192292074],[-73.85060820390714,40.88539258975931],[-73.98112681334823,40.88539258975931],[-73.98112681334823,40.79522192292074]]]}}}
+,
+{"id":"30278fa0-3d50-0134-5f8d-00505686a51c","collectionId":"d2251ba0-7850-0134-7a11-00505686a51c","data":{"title":"Inwood - 1900 census enumeration districts, Manhattan and Bronx","mapId":30842,"tileUrl":"http://maps.nypl.org/warper/maps/tile/30842/{z}/{x}/{y}.png","geometry":{"type":"Polygon","coordinates":[[[-73.97268239539734,40.809830099637104],[-73.84574505973784,40.809830099637104],[-73.84574505973784,40.90017310636149],[-73.97268239539734,40.90017310636149],[-73.97268239539734,40.809830099637104]]]}}}
 ]

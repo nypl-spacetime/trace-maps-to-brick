@@ -9,6 +9,10 @@
   "author": "Bert Spaan",
   "license": "MIT",
   "dependencies": {
-    "to-brick": "nypl-spacetime/to-brick"
+    "JSONStream": "^1.2.1",
+    "highland": "^2.10.1",
+    "request": "^2.79.0",
+    "to-brick": "nypl-spacetime/to-brick",
+    "wellknown": "^0.5.0"
   }
 }
